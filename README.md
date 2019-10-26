@@ -1,4 +1,8 @@
 # ERBEUS
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/HarshCasper/ERBEUS?branch=master)](https://bettercodehub.com/)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4efb701ff0c24a318051ee34a0eadf78)](https://www.codacy.com/manual/HarshCasper/ERBEUS?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshCasper/ERBEUS&amp;utm_campaign=Badge_Grade)
+
 ERBEUS is a Computer Assistant that has been coded on Python 3 Programming Language and is designed to serve as a Computer Assistant which can perform a variety of tasks like performing Google Search, Shutdown/Lock the Computer, fetching Wikipedia content, generating new passwords for us, generating weather reports for us and opening Computer Applications and even fetching is some jokes to help us out of our boredom.
 
 ## Requirements 
